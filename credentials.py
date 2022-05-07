@@ -1,1 +1,1 @@
-token = 'TOKEN DISCORD'
+token = '958027204846035016'
